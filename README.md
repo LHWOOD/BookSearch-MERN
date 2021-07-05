@@ -26,7 +26,7 @@ N/A
 
 ## Usage
 
-Heroku link:
+Heroku link: https://warm-tor-90084.herokuapp.com/
 
 ## Contributing
 
